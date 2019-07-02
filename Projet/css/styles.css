@@ -1,0 +1,81 @@
+/*AUDREY*/
+
+body {
+	font-family: Ubuntu, sans serif;
+	color: black;
+ }
+
+h1 {
+	color: #e41248;
+}
+
+h2 {
+	text-align: center;
+	color: #e41248;
+}
+
+
+#col1 {
+	background-color: #ecebeb;
+}
+
+#col2 {
+
+	width: 
+	height: 
+}	
+
+#col3 {
+	background-image: url("../images/polygone_pari.svg");
+	background-size: contain;
+background-repeat: no-repeat;
+	width: 300px;
+	height: 300px;
+}
+
+p.para {
+	text-align: left;
+	font-size: 18px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    position: relative;
+    right: 100px;
+}
+
+p.para2 {
+	font-size: 18px;
+	text-align: left;
+}
+
+.photo1 {
+	width: 19rem;
+	height: 19rem;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: white;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+h2.display-3 {
+	text-align: center;
+}
+
+
+/*CAROLE*/
+#titre{
+	background-image: url("images/header_home.png");
+	color: white;
+	font-size: 50px;
+}
+#explication{
+	color:red;
+}
+
+/*MARIE-LAURE*/
